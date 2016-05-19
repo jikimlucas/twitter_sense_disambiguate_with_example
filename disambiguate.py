@@ -113,5 +113,5 @@ def	readfile (file_):
 	    for line in infile:
 	        writeText(line)
 	    
-readfile(sys.argv[1]);
+readfile(sys.argv[1])
 
